@@ -75,4 +75,16 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Bethany Griggs**
 is a Senior Software Engineer at Red Hat and a Node.js Technical Steering Committee Member. Beth has been involved with the Node.js project since 2016 when she joined IBM in their Node.js Runtime Team. Now at Red Hat, she’s continuing her work around Node.js, including contributing to the Node.js project. Beth is an active member of the Node.js Release Working Group, who audit the content for and produce the Node.js releases. Her other focuses are the creation of resources and tools to support Node.js deployments to cloud.
 
-
+## Chapters
+* Chapter 1: Introducing Node.js 14
+* Chapter 2: Handling I/O
+* Chapter 3: Streams, Streams, Streams
+* Chapter 4: Using Web Protocols
+* Chapter 5: Developing Node.js modules
+* Chapter 6: Exploring Node.js web Frameworks
+* Chapter 7: Working with Databases
+* Chapter 8: Testing with Node.js
+* Chapter 9: Securing Node.js Applications
+* Chapter 10: Performance Optimization
+* Chapter 11: Deploying Node.js Microservices
+* Chapter 12: Debugging Node.js
